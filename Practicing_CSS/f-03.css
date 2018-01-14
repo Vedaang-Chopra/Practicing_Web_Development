@@ -14,8 +14,10 @@ ul>li{
 div+p{
     font-size: 100px;
 }
-p~ul~span{
+p~ul{
     font-size: 100px;
+}
+p~span{
     font-family: "Franklin Gothic Book";
     color: rebeccapurple;
 }
