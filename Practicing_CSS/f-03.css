@@ -1,0 +1,19 @@
+div li{
+    color: red;
+}
+div>p{
+    font-size: 20px;
+    color:blue;
+}
+p+ul{
+    font-style: italic;
+}
+ul>li{
+    font-family:"Times New Roman";
+}
+div+p{
+    font-size: 100px;
+}
+p~ul{
+    font-size: 100px;
+}
