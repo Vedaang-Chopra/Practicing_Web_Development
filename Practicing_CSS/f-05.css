@@ -1,0 +1,42 @@
+div{
+    width: 300px;
+    height: 100px;
+    background-color:white;
+    margin:10px;
+    border-top-width: 5px;
+    border-top-style: solid;
+    border-right-width: 5px;
+    border-right-style: solid;
+    border-left-width: 5px;
+    border-left-style: solid;
+    border-bottom-width: 5px;
+    border-bottom-style: solid;
+}
+#div1{
+    transform : translate(40px, 0px);
+}
+#div2{
+
+    transform: scale(2,0.5)
+}
+#div3{
+    transform: rotate(3rad);
+}
+#div4{
+    transform: skew(40deg,20deg);
+}
+#div5{
+    transform: matrix(1,0,0,1,20,20);
+
+}
+span{
+    display: inline-block;
+    height: 40px;
+    width:40px;
+    background-color: red;
+    transition: 2s;
+}
+#span1:hover{
+    width:240px;
+    transform: translate(40px,0px);
+}
