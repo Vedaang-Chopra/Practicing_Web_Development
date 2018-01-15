@@ -1,0 +1,45 @@
+div{
+    width: 300px;
+    height: 100px;
+    background-color:white;
+    margin:10px;
+    border-top-width: 5px;
+    border-top-style: solid;
+    border-right-width: 5px;
+    border-right-style: solid;
+    border-left-width: 5px;
+    border-left-style: solid;
+    border-bottom-width: 5px;
+    border-bottom-style: solid;
+}
+#one{
+    position: static;
+    background-color: aqua;
+}
+#two{
+    position: relative;
+    top:20px;
+    left: 20px;
+}
+#three{
+    position: fixed;
+    top: 40px;
+    right:30px
+}
+#four{
+    position:absolute;
+    bottom: 40px;
+    right:40px;
+}
+#six{
+    position: relative;
+}
+#seven{
+    position: absolute;
+    height:50px;
+    width: 50px;
+    background-color: #fff407;
+    font-size:50%;
+    bottom:3px;
+    left:40px
+}

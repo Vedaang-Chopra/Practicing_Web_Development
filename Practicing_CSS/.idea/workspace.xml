@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f4533d7-0210-4d5c-bc21-3de5d54143c1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Practicing_HTML/f-02.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Practicing_HTML/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Practicing_HTML/.idea/jsLibraryMappings.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../Practicing_HTML/f-01.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Practicing_HTML/SampleAudio_0.7mb.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Practicing_HTML/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Practicing_HTML/Lighthouse.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../Practicing_HTML/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Practicing_HTML/SampleVideo_1280x720_1mb.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Practicing_HTML/f-03.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Practicing_HTML/Lighthouse.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Practicing_HTML/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Practicing_HTML/SampleAudio_0.7mb.mp3" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../Practicing_HTML/.idea/Practicing_HTML.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Practicing_HTML/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Practicing_HTML/f-03.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Practicing_HTML/f-02.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Practicing_HTML/SampleVideo_1280x720_1mb.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Practicing_HTML/.idea/jsLibraryMappings.xml" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="f-04.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="f-04.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/f-04.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="482">
+              <caret line="60" column="226" lean-forward="false" selection-start-line="60" selection-start-column="226" selection-end-line="60" selection-end-column="226" />
               <folding />
             </state>
           </provider>
@@ -38,38 +38,6 @@
       </file>
       <file leaf-file-name="f-04.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/f-04.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="f-03(combinators, visibility and display, pseudo class and elements).html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/f-03(combinators, visibility and display, pseudo class and elements).html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="58" column="5" lean-forward="false" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
-              <folding>
-                <element signature="n#style#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="f-05.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/f-05.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="f-05.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/f-05.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -100,13 +68,13 @@
         <option value="$PROJECT_DIR$/f-02.html" />
         <option value="$PROJECT_DIR$/f-03.html" />
         <option value="$PROJECT_DIR$/f-03(combinators).html" />
-        <option value="$PROJECT_DIR$/f-03.css" />
         <option value="$PROJECT_DIR$/f-02(margins, paddings, border).html" />
         <option value="$PROJECT_DIR$/f-05.html" />
         <option value="$PROJECT_DIR$/f-06.css" />
+        <option value="$PROJECT_DIR$/f-03.css" />
+        <option value="$PROJECT_DIR$/f-03(combinators, visibility and display, pseudo class and elements).html" />
         <option value="$PROJECT_DIR$/f-04.css" />
         <option value="$PROJECT_DIR$/f-04.html" />
-        <option value="$PROJECT_DIR$/f-03(combinators, visibility and display, pseudo class and elements).html" />
       </list>
     </option>
   </component>
@@ -141,6 +109,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,7 +121,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -180,6 +148,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="9f4533d7-0210-4d5c-bc21-3de5d54143c1" name="Default" comment="" />
@@ -189,12 +160,13 @@
       <updated>1515963073843</updated>
       <workItem from="1515964012190" duration="5584000" />
       <workItem from="1515970262657" duration="5229000" />
-      <workItem from="1515975912280" duration="191000" />
+      <workItem from="1515975912280" duration="1924000" />
+      <workItem from="1516013755096" duration="3644000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11004000" />
+    <option name="totallyTimeSpent" value="16381000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1374" y="-8" width="1382" height="784" extended-state="6" />
@@ -226,7 +198,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.3297546" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -280,6 +252,22 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/f-04.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/f-04.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/f-04.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
           <folding />
@@ -290,7 +278,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -298,7 +285,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -352,18 +338,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/f-03.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/f-05.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -371,33 +349,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/f-03.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="48" column="1" lean-forward="false" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/f-03(combinators, visibility and display, pseudo class and elements).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/f-04.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/f-04.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="482">
+          <caret line="60" column="226" lean-forward="false" selection-start-line="60" selection-start-column="226" selection-end-line="60" selection-end-column="226" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/f-03(combinators, visibility and display, pseudo class and elements).html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="58" column="5" lean-forward="false" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
