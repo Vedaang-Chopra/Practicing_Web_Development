@@ -21,3 +21,31 @@ p~span{
     font-family: "Franklin Gothic Book";
     color: rebeccapurple;
 }
+#a{
+    visibility: hidden;
+}
+#b{
+    display: inline;
+}
+#c{
+    display: inline-block;
+    height: 200px;
+    width: 400px;
+    background-color: blue;
+}
+#p1:hover{
+    color: green;
+}
+#p1{
+    color: red;
+}
+body{
+    background-color: black;
+}
+#p2::first-line{
+    color: pink;
+}
+#p2 {
+    color: white;
+    font-size: 40px;
+}
