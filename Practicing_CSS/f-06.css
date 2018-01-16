@@ -6,21 +6,25 @@
 }
 @keyframes myanim {
 
-        0%{
-          background-color: red;
-        }
-        100%{
-            background-color: gold;
-            transform: translate(100px,0px);
-        }
-        50%{
-            background-color: green;
-            transform: translate(200px,0px);
-        }
+    0%{
+        background-color: red;
+    }
+    100%{
+        background-color: gold;
+        transform: translate(100px,0px);
+    }
+    50%{
+        background-color: green;
+        transform: translate(200px,0px);
+    }
+    25%{
+        background-color: black;
+        transform:translate(400px,200px)
+    }
 }
 #div1:hover{
-        animation-name: myanim;
-        animation-duration: 8s;
+    animation-name: myanim;
+    animation-duration: 8s;
 }
 #div2:hover{
     transform: translateX(500px);
@@ -36,14 +40,50 @@ span{
     border-style: solid;
     border-width: 2px;
     border-color: black;
+    animation-name: bounce;
+    animation-duration: 4s;
+    animation-iteration-count:1000;
 }
+#span1{
+    animation-timing-function: ease-in;
+}
+
+#span2{
+    animation-timing-function: ease-out;
+}
+
+#span3{
+    animation-timing-function: linear;
+}
+
+#span4{
+    animation-timing-function: ease;
+}
+
+#span5{
+    animation-timing-function: ease-in-out;
+}
+
+/*#span6{*/
+/*animation-timing-function: cubic-beizer(0,0.5,0.7,1);*/
+/*}*/
+
+/*#span6{*/
+/*animation-timing-function: ;*/
+/*}*/
+
+
 @keyframes bounce {
-    0%{
+
+    0% {
 
     }
-    50${
-        transform
+
+    50%{
+        transform:translateY(350px);
+    }
+
+    100%{
+
+    }
 }
-      100%{
-}
-      }
