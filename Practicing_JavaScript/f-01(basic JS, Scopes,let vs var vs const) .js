@@ -1,4 +1,8 @@
  //Starting with JavaScript
+
+ /*JavaScript can be run on the browser or using script tag of an html file or using node interpreter*/
+
+
  var Number=10;                                                 //Declaring a number variable
  var String="This is a String";                                 //Declaring a string
  var Bool=false;                                                //Declaring a boolean variable

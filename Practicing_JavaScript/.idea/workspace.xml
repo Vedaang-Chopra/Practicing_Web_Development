@@ -14,11 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="f-02.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/f-02.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="120" lean-forward="false" selection-start-line="17" selection-start-column="120" selection-end-line="17" selection-end-column="120" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="f-01(basic JS, Scopes,let vs var vs const) .js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/f-01(basic JS, Scopes,let vs var vs const) .js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="82" column="6" lean-forward="true" selection-start-line="82" selection-start-column="6" selection-end-line="82" selection-end-column="6" />
+            <state relative-caret-position="34">
+              <caret line="2" column="75" lean-forward="false" selection-start-line="2" selection-start-column="75" selection-end-line="2" selection-end-column="75" />
               <folding />
             </state>
           </provider>
@@ -37,6 +47,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/f-01.js" />
+        <option value="$PROJECT_DIR$/f-02.js" />
         <option value="$PROJECT_DIR$/f-01(basic JS, Scopes,let vs var vs const) .js" />
       </list>
     </option>
@@ -102,11 +113,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.f-01.js">
+  <component name="RunManager" selected="Node.js.f-02.js">
     <configuration name="f-01.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/f-01(basic JS, Scopes,let vs var vs const) .js" working-dir="$PROJECT_DIR$" />
+    <configuration name="f-02.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="f-02.js" working-dir="$PROJECT_DIR$" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.f-01.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.f-02.js" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.f-01.js" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.f-02.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.f-01.js" />
       </list>
     </recent_temporary>
   </component>
@@ -121,12 +138,12 @@
       <option name="presentableId" value="Default" />
       <updated>1516133553561</updated>
       <workItem from="1516133555029" duration="273000" />
-      <workItem from="1516189704386" duration="8162000" />
+      <workItem from="1516189704386" duration="9425000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8435000" />
+    <option name="totallyTimeSpent" value="9698000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1374" y="-8" width="1382" height="784" extended-state="6" />
@@ -161,10 +178,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/f-02.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="120" lean-forward="false" selection-start-line="17" selection-start-column="120" selection-end-line="17" selection-end-column="120" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/f-01(basic JS, Scopes,let vs var vs const) .js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="82" column="6" lean-forward="true" selection-start-line="82" selection-start-column="6" selection-end-line="82" selection-end-column="6" />
+        <state relative-caret-position="34">
+          <caret line="2" column="75" lean-forward="false" selection-start-line="2" selection-start-column="75" selection-end-line="2" selection-end-column="75" />
           <folding />
         </state>
       </provider>
