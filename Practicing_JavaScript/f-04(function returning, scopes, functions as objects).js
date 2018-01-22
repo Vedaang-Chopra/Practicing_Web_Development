@@ -32,12 +32,16 @@ alpha.y=50;
 console.log(alpha);
 console.log(typeof (alpha));
 /**********************************************************************************************************************************/
-//Scopes and Closures..............................................................................................
-//let v=10;
+//Scopes revisited..............................................................................................
+var v=10;
 function beta()
 {
-    v=20;
-    return v;
+    console.log(v);
+    if (true) {
+        var v = 30;                      //Let has a block scope and var function scope
+        console.log(v);
+    }
+       return v;
 }
 console.log(v);                 // Here as v is not declared and strict mode is applicable we cannot use v
 console.log(beta());
