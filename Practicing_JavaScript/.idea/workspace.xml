@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d8d16ae-3bdc-4a2c-87b8-1558255d74ae" name="Default" comment="Adding JavaScript Practice">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/f-06(Classes using functions, prototypes).js" afterPath="$PROJECT_DIR$/f-06(Classes using functions, prototypes).js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/f-07(this).js" afterPath="$PROJECT_DIR$/f-07(this).js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,12 +19,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="f-06(Classes using functions, prototypes).js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/f-06(Classes using functions, prototypes).js">
+      <file leaf-file-name="f-07(this).js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/f-07(this).js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="66" column="7" lean-forward="false" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
-              <folding />
+            <state relative-caret-position="221">
+              <caret line="13" column="81" lean-forward="false" selection-start-line="13" selection-start-column="81" selection-end-line="13" selection-end-column="81" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -57,6 +58,7 @@
         <option value="$PROJECT_DIR$/f-05(closures, reduce map filter, split and join).js" />
         <option value="$PROJECT_DIR$/f-06.js" />
         <option value="$PROJECT_DIR$/f-06(Classes using functions, prototypes).js" />
+        <option value="$PROJECT_DIR$/f-07(this).js" />
       </list>
     </option>
   </component>
@@ -156,26 +158,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.f-06.js">
-    <configuration name="f-02.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/f-02(string and string functions).js" working-dir="$PROJECT_DIR$" />
+  <component name="RunManager" selected="Node.js.f-07(this).js">
     <configuration name="f-03().js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/f-03(higher order function,arrays, array sort and compare).js" working-dir="$PROJECT_DIR$" />
     <configuration name="f-04.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/f-04(function returning, scopes, functions as objects).js" working-dir="$PROJECT_DIR$" />
     <configuration name="f-05.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/f-05(closures, reduce map filter, split and join).js" working-dir="$PROJECT_DIR$" />
-    <configuration name="f-06.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/f-06(Classes using functions, prototypes).js" working-dir="$PROJECT_DIR$" />
+    <configuration name="f-06.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/f-06(Classes using functions, prototypes, this, enviornment variables).js" working-dir="$PROJECT_DIR$" />
+    <configuration name="f-07(this).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="f-07(this).js" working-dir="$PROJECT_DIR$" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.f-02.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.f-03().js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.f-04.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.f-05.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.f-06.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.f-03().js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.f-04.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.f-05.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.f-06.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.f-07(this).js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.f-06.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.f-05.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.f-04.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.f-03().js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.f-02.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.f-07(this).js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.f-06.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.f-05.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.f-04.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.f-03().js" />
       </list>
     </recent_temporary>
   </component>
@@ -198,12 +200,12 @@
       <workItem from="1516390073218" duration="11568000" />
       <workItem from="1516621206560" duration="2966000" />
       <workItem from="1516628467721" duration="2586000" />
-      <workItem from="1516645428576" duration="18310000" />
+      <workItem from="1516645428576" duration="19024000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47260000" />
+    <option name="totallyTimeSpent" value="47974000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -420,11 +422,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/f-06(Classes using functions, prototypes).js">
+    <entry file="file://$PROJECT_DIR$/f-06(Classes using functions, prototypes, this, enviornment variables).js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="66" column="7" lean-forward="false" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
+        <state relative-caret-position="51">
+          <caret line="54" column="3" lean-forward="true" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/f-07(this).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="81" lean-forward="false" selection-start-line="13" selection-start-column="81" selection-end-line="13" selection-end-column="81" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
