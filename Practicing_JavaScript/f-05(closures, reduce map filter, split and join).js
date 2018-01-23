@@ -69,6 +69,16 @@ let factorial=arr2.reduce(function (accum,item,index,array) {
     return accum*item;
 })
 
+let q=0;
+let arr3=[0,1,2,3];
+let fibonacci=arr3.reduce(function (accum,item,index,array) {
+    if(index==1) {
+        return q + accum;
+    }
+    return accum+item;
+})
+console.log(factorial);
+console.log(fibonacci);
 
 
 

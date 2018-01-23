@@ -24,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/f-05(closures, reduce map filter, split and join).js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="318">
-              <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -198,12 +198,12 @@
       <workItem from="1516390073218" duration="11568000" />
       <workItem from="1516621206560" duration="2966000" />
       <workItem from="1516628467721" duration="2586000" />
-      <workItem from="1516645428576" duration="12956000" />
+      <workItem from="1516645428576" duration="12980000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41906000" />
+    <option name="totallyTimeSpent" value="41930000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -412,7 +412,7 @@
     <entry file="file://$PROJECT_DIR$/f-05(closures, reduce map filter, split and join).js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="318">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
