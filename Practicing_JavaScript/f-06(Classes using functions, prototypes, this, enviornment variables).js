@@ -49,8 +49,26 @@ console.log(c.__proto__.__proto__.__proto__.__proto__);
 console.log(b.__proto__.p);
 console.log(c.__proto__.q);
 console.log(c.__proto__.p);
-console.log(c.__proto__.__proto__.p);
+console.log(c.__proto__.__proto__.p)
+/**********************************************************************************************************************************/
+//Using this and new....................................................................................................
+console.log("Using this .........................................................")
+console.log(this);
+this.a=0;
+console.log(this);
+function alpha()
+ {
+     //console.log(this);
+     this.b=11;
+ }
 
-
+//console.log(this);
+ function beta() {
+     //console.log(this);
+    this.c=22;
+ }
+alpha();
+console.log(this);
+console.log(process.env.TEMP);
 
 
