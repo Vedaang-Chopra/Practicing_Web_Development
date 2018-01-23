@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3d8d16ae-3bdc-4a2c-87b8-1558255d74ae" name="Default" comment="Adding JavaScript Practice">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/f-07(this).js" afterPath="$PROJECT_DIR$/f-07(this).js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,23 +19,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="f-07(this).js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/f-07(this).js">
+      <file leaf-file-name="f-08.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/f-08.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="57" column="27" lean-forward="false" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="f-06(Classes using functions, prototypes, this, enviornment variables).js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/f-06(Classes using functions, prototypes, this, enviornment variables).js">
+      <file leaf-file-name="f-08.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/f-08.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="54" column="3" lean-forward="false" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
+            <state relative-caret-position="253">
+              <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -47,6 +44,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -70,6 +68,8 @@
         <option value="$PROJECT_DIR$/f-06.js" />
         <option value="$PROJECT_DIR$/f-06(Classes using functions, prototypes).js" />
         <option value="$PROJECT_DIR$/f-07(this).js" />
+        <option value="$PROJECT_DIR$/f-08.html" />
+        <option value="$PROJECT_DIR$/f-08.js" />
       </list>
     </option>
   </component>
@@ -156,6 +156,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Web-Development-Class/untitled" />
     <property name="JavaScriptPreferStrict" value="true" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -169,26 +171,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.f-07(this).js">
-    <configuration name="f-03().js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/f-03(higher order function,arrays, array sort and compare).js" working-dir="$PROJECT_DIR$" />
-    <configuration name="f-04.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/f-04(function returning, scopes, functions as objects).js" working-dir="$PROJECT_DIR$" />
+  <component name="RunManager" selected="Node.js.f-08.js">
     <configuration name="f-05.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/f-05(closures, reduce map filter, split and join).js" working-dir="$PROJECT_DIR$" />
     <configuration name="f-06.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/f-06(Classes using functions, prototypes, this, enviornment variables).js" working-dir="$PROJECT_DIR$" />
-    <configuration name="f-07(this).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="f-07(this).js" working-dir="$PROJECT_DIR$" />
+    <configuration name="f-07(this).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/f-07(this,new,implementing classes and objects(EcmaScript5)).js" working-dir="$PROJECT_DIR$" />
+    <configuration name="f-08.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Practicing_JavaScript/f-08.html" />
+    <configuration name="f-08.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="f-08.js" working-dir="$PROJECT_DIR$" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.f-03().js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.f-04.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.f-05.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.f-06.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.f-07(this).js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.f-05.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.f-06.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.f-07(this).js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.f-08.js" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.f-08.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.f-07(this).js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.f-06.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.f-05.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.f-04.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.f-03().js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.f-08.js" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.f-08.html" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.f-07(this).js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.f-06.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.f-05.js" />
       </list>
     </recent_temporary>
   </component>
@@ -211,17 +213,18 @@
       <workItem from="1516390073218" duration="11568000" />
       <workItem from="1516621206560" duration="2966000" />
       <workItem from="1516628467721" duration="2586000" />
-      <workItem from="1516645428576" duration="22695000" />
+      <workItem from="1516645428576" duration="24219000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51645000" />
+    <option name="totallyTimeSpent" value="53169000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -432,6 +435,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/f-07(this,new,implementing classes and objects(EcmaScript5)).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="57" column="27" lean-forward="false" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/f-06(Classes using functions, prototypes, this, enviornment variables).js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
@@ -440,13 +453,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/f-07(this).js">
+    <entry file="file://$PROJECT_DIR$/f-08.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="57" column="27" lean-forward="false" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/f-08.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
