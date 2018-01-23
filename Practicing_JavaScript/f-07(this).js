@@ -11,7 +11,7 @@ console.log(b);
 let obj={
     p:10,q:20,
     r:function(){
-        console.log(this);                  //Here this pints to the object "obj"
+        console.log(this);                  //Here this points to the object "obj"
     }
 }
 obj.r();
