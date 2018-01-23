@@ -23,8 +23,8 @@
       <file leaf-file-name="f-05(closures, reduce map filter, split and join).js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/f-05(closures, reduce map filter, split and join).js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="318">
+              <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -198,12 +198,12 @@
       <workItem from="1516390073218" duration="11568000" />
       <workItem from="1516621206560" duration="2966000" />
       <workItem from="1516628467721" duration="2586000" />
-      <workItem from="1516645428576" duration="12920000" />
+      <workItem from="1516645428576" duration="12956000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41870000" />
+    <option name="totallyTimeSpent" value="41906000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -411,8 +411,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/f-05(closures, reduce map filter, split and join).js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="318">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
