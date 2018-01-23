@@ -34,3 +34,25 @@ function newPerson(name,age)
 }
 let p=new newPerson("Joe",32);
 console.log(p);
+//Implementing classes before intoduction of EcmaScript6...............................................................
+function vehicle(color,seats)
+{
+    this.color=color;
+    this.seats=seats;
+    this.canAccomadate=function (people) {
+        return people<=seats;
+    }
+    let wheels=2;
+    this.getwheels=function(){
+        return wheels;
+    }
+    this.setwheels=function (wh) {
+        wheels=wh;
+    }
+}
+let bike=new vehicle('black',2)
+let car=new vehicle('red',4);
+console.log((bike.canAccomadate(1)));
+console.log((car.canAccomadate(4)));
+car.setwheels(4);
+console.log(car.getwheels());
