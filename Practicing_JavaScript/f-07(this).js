@@ -15,10 +15,16 @@ let obj={
     }                                   //it would point towards global only as alpha is defined in global. This is called
 }                                       // as lexical scoping, that is where there is definition this would point there only.
 console.log(b);
-
-
+let x=obj.r;
+x();                //Here x is defined in global. Thus here this refers to script/global
 console.log(obj);
 obj.r();
+let obj2={
+    a:10,
+    b:20,
+    c:x             //Here as c is defined/created here that is thus "this" would point to obj2;
+}
+obj2.c();
 //Using new constructor...........................................................................
 function newPerson(name,age)
 {
