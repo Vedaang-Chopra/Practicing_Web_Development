@@ -79,6 +79,22 @@ let fibonacci=arr3.reduce(function (accum,item,index,array) {
 })
 console.log(factorial);
 console.log(fibonacci);
+/*******************************************************************************************************************************/
+//Using Split and Join
+let string="Hello World";
+let words=string.split(' ');
+console.log(words);
+let charr=string.split('');
+console.log(charr);
+let arr5=['a','b','c'];
+console.log(arr.join(''));
+let str1="abcdef";
+let d=str1.split('')[str1.length-2];
+console.log(d);
+let date="2017-01-28"
+console.log((date.split('-')).join('/'));
+
+
 
 
 
