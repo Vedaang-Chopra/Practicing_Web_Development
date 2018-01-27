@@ -1,0 +1,40 @@
+#con{
+    width:1000px;
+    height: 4000px;
+    background-color: green;
+    border: 5px solid black;
+}
+#ro{
+    width: 900px;
+    height:250px;
+    background-color: gold;
+    border: 5px solid purple;
+    position: relative;
+    left:50px
+}
+#co1{
+    width: 300px;
+    height:200px;
+    background-color: darkblue;
+    border: 5px solid firebrick;
+    position: relative;
+    top:25px
+}
+
+#co2{
+    width: 300px;
+    height:200px;
+    background-color: aquamarine;
+    border: 5px solid firebrick;
+    position: relative;
+    top:25px
+}
+
+#co3{
+    width: 300px;
+    height:200px;
+    background-color: red;
+    border: 5px solid firebrick;
+    position: relative;
+    top:25px
+}
