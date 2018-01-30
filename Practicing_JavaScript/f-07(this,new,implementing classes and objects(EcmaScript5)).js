@@ -56,3 +56,4 @@ console.log((bike.canAccomadate(1)));
 console.log((car.canAccomadate(4)));
 car.setwheels(4);
 console.log(car.getwheels());
+console.log(bike);
