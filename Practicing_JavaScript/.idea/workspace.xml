@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="3d8d16ae-3bdc-4a2c-87b8-1558255d74ae" name="Default" comment="Adding JavaScript Practice">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/f-09(fizzbuzz).html" afterPath="$PROJECT_DIR$/f-09(fizzbuzz and javascript dom).html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/f-09(fizzbuzz).js" afterPath="$PROJECT_DIR$/f-09(fizzbuzz and javascript dom).js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/f-09(fizzbuzz and javascript dom).html" afterPath="$PROJECT_DIR$/f-09(fizzbuzz and javascript dom).html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/f-09(fizzbuzz and javascript dom).js" afterPath="$PROJECT_DIR$/f-09(fizzbuzz and javascript dom).js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/f-10.js" afterPath="$PROJECT_DIR$/f-10.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="f-09(fizzbuzz and javascript dom).html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/f-09(fizzbuzz and javascript dom).html">
+      <file leaf-file-name="f-10.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/f-10.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -34,8 +35,18 @@
       <file leaf-file-name="f-09(fizzbuzz and javascript dom).js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/f-09(fizzbuzz and javascript dom).js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="28" column="32" lean-forward="false" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+            <state relative-caret-position="102">
+              <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="f-09(fizzbuzz and javascript dom).html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/f-09(fizzbuzz and javascript dom).html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -81,11 +92,11 @@
         <option value="$PROJECT_DIR$/f-09(bootstrap).html" />
         <option value="$PROJECT_DIR$/f-09(fizzbuzz).html" />
         <option value="$PROJECT_DIR$/f-09(fizzbuzz).js" />
-        <option value="$PROJECT_DIR$/f-10.js" />
         <option value="$PROJECT_DIR$/f-09(fizzbuzz and java dom).html" />
-        <option value="$PROJECT_DIR$/f-09(fizzbuzz and javascript dom).js" />
         <option value="$PROJECT_DIR$/hello.js" />
         <option value="$PROJECT_DIR$/f-09(fizzbuzz and javascript dom).html" />
+        <option value="$PROJECT_DIR$/f-09(fizzbuzz and javascript dom).js" />
+        <option value="$PROJECT_DIR$/f-10.js" />
       </list>
     </option>
   </component>
@@ -102,7 +113,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1366" />
     <option name="width" value="1364" />
     <option name="height" value="728" />
@@ -187,26 +198,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.f-09(fizzbuzz and javascript dom).html">
-    <configuration name="f-07(this).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/f-07(this,new,implementing classes and objects(EcmaScript5)).js" working-dir="$PROJECT_DIR$" />
+  <component name="RunManager" selected="Node.js.f-09(fizzbuzz and javascript dom).js">
     <configuration name="f-08(Arrow functions, String and Array class proto typing).html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Practicing_JavaScript/f-08(Arrow functions, String and Array class proto typing).html" />
     <configuration name="f-08.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/f-08(Arrow functions, String and Array class proto typing).js" working-dir="$PROJECT_DIR$" />
     <configuration name="f-09(fizzbuzz and javascript dom).html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Practicing_JavaScript/f-09(fizzbuzz and javascript dom).html" />
+    <configuration name="f-09(fizzbuzz and javascript dom).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="f-09(fizzbuzz and javascript dom).js" working-dir="$PROJECT_DIR$" />
     <configuration name="f-10.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="f-10.js" working-dir="$PROJECT_DIR$" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.f-07(this).js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.f-08.js" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.f-08(Arrow functions, String and Array class proto typing).html" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.f-10.js" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.f-09(fizzbuzz and javascript dom).html" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.f-08.js" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.f-08(Arrow functions, String and Array class proto typing).html" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.f-10.js" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.f-09(fizzbuzz and javascript dom).html" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.f-09(fizzbuzz and javascript dom).js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.f-09(fizzbuzz and javascript dom).html" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.f-10.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.f-08.js" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.f-08(Arrow functions, String and Array class proto typing).html" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.f-07(this).js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.f-09(fizzbuzz and javascript dom).js" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.f-09(fizzbuzz and javascript dom).html" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.f-10.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.f-08.js" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.f-08(Arrow functions, String and Array class proto typing).html" />
       </list>
     </recent_temporary>
   </component>
@@ -241,23 +252,23 @@
       <workItem from="1517053555424" duration="1954000" />
       <workItem from="1517056774634" duration="2553000" />
       <workItem from="1517071941340" duration="597000" />
-      <workItem from="1517226863332" duration="5249000" />
+      <workItem from="1517226863332" duration="9714000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77000000" />
+    <option name="totallyTimeSpent" value="81465000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1366" y="0" width="1364" height="728" extended-state="0" />
+    <frame x="-1374" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2775264" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27380952" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33660132" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30674848" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28020135" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2791411" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3970588" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -618,14 +629,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/f-10.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/f-05(closures, reduce map filter, split and join).js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="267">
@@ -650,14 +653,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/f-09(fizzbuzz and javascript dom).js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="28" column="32" lean-forward="false" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hello.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -668,8 +663,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/f-09(fizzbuzz and javascript dom).html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        <state relative-caret-position="119">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/f-09(fizzbuzz and javascript dom).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/f-10.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
