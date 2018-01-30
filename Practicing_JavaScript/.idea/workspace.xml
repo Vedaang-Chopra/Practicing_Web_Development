@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d8d16ae-3bdc-4a2c-87b8-1558255d74ae" name="Default" comment="Adding JavaScript Practice">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/f-10.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/f-09(fizzbuzz and javascript dom).html" afterPath="$PROJECT_DIR$/f-09(fizzbuzz and javascript dom).html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/f-09(fizzbuzz and javascript dom).js" afterPath="$PROJECT_DIR$/f-09(fizzbuzz and javascript dom).js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/f-08(Arrow functions, String and Array class proto typing).html" afterPath="$PROJECT_DIR$/f-08(Arrow functions, String and Array class proto typing).html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/f-10.js" afterPath="$PROJECT_DIR$/f-10.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -25,28 +25,8 @@
       <file leaf-file-name="f-10.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/f-10.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="f-09(fizzbuzz and javascript dom).js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/f-09(fizzbuzz and javascript dom).js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="f-09(fizzbuzz and javascript dom).html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/f-09(fizzbuzz and javascript dom).html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            <state relative-caret-position="333">
+              <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -96,6 +76,7 @@
         <option value="$PROJECT_DIR$/hello.js" />
         <option value="$PROJECT_DIR$/f-09(fizzbuzz and javascript dom).html" />
         <option value="$PROJECT_DIR$/f-09(fizzbuzz and javascript dom).js" />
+        <option value="$PROJECT_DIR$/f-08(Arrow functions, String and Array class proto typing).html" />
         <option value="$PROJECT_DIR$/f-10.js" />
       </list>
     </option>
@@ -198,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.f-09(fizzbuzz and javascript dom).js">
+  <component name="RunManager" selected="Node.js.f-10.js">
     <configuration name="f-08(Arrow functions, String and Array class proto typing).html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Practicing_JavaScript/f-08(Arrow functions, String and Array class proto typing).html" />
     <configuration name="f-08.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/f-08(Arrow functions, String and Array class proto typing).js" working-dir="$PROJECT_DIR$" />
     <configuration name="f-09(fizzbuzz and javascript dom).html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Practicing_JavaScript/f-09(fizzbuzz and javascript dom).html" />
@@ -213,9 +194,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.f-09(fizzbuzz and javascript dom).js" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.f-09(fizzbuzz and javascript dom).html" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.f-10.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.f-10.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.f-09(fizzbuzz and javascript dom).js" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.f-09(fizzbuzz and javascript dom).html" />
         <item index="3" class="java.lang.String" itemvalue="Node.js.f-08.js" />
         <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.f-08(Arrow functions, String and Array class proto typing).html" />
       </list>
@@ -252,12 +233,12 @@
       <workItem from="1517053555424" duration="1954000" />
       <workItem from="1517056774634" duration="2553000" />
       <workItem from="1517071941340" duration="597000" />
-      <workItem from="1517226863332" duration="9714000" />
+      <workItem from="1517226863332" duration="11708000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81465000" />
+    <option name="totallyTimeSpent" value="83459000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1374" y="-8" width="1382" height="784" extended-state="6" />
@@ -266,9 +247,9 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30674848" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30674848" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2791411" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2791411" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3970588" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -622,25 +603,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/f-10(fizzbuzz/foobar).js" />
     <entry file="file://$PROJECT_DIR$/f-09(bootstrap).css" />
-    <entry file="file://$PROJECT_DIR$/f-10.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/f-05(closures, reduce map filter, split and join).js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="267">
           <caret line="93" column="21" lean-forward="true" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/f-08(Arrow functions, String and Array class proto typing).html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -669,6 +635,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/f-10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/f-08(Arrow functions, String and Array class proto typing).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/f-09(fizzbuzz and javascript dom).js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -679,8 +661,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/f-10.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="333">
+          <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
           <folding />
         </state>
       </provider>
