@@ -2,9 +2,9 @@
 //Closures.....................................................................................................
 "use strict";
 function createCounter() {
-    let a=0;
-    function count() {
-        return ++a;
+    let a=0;                            //Any function having another definition inside it then the local variables of
+    function count() {                  // of outside function are given a scope closure inside the function definition
+        return ++a;                     //of inside function
     }
     return count;
 }

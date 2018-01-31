@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3d8d16ae-3bdc-4a2c-87b8-1558255d74ae" name="Default" comment="Adding JavaScript Practice">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/f-05(closures, reduce map filter, split and join).js" afterPath="$PROJECT_DIR$/f-05(closures, reduce map filter, split and join).js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,7 +30,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="f-14.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="f-14.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/f-14.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
@@ -37,6 +38,16 @@
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="f-05(closures, reduce map filter, split and join).js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/f-05(closures, reduce map filter, split and join).js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="60" lean-forward="false" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -67,7 +78,6 @@
         <option value="$PROJECT_DIR$/f-03(higher order function,arrays, array sort and compare).js" />
         <option value="$PROJECT_DIR$/f-04.js" />
         <option value="$PROJECT_DIR$/f-05.js" />
-        <option value="$PROJECT_DIR$/f-05(closures, reduce map filter, split and join).js" />
         <option value="$PROJECT_DIR$/f-06.js" />
         <option value="$PROJECT_DIR$/f-06(Classes using functions, prototypes).js" />
         <option value="$PROJECT_DIR$/f-07(this).js" />
@@ -96,6 +106,7 @@
         <option value="$PROJECT_DIR$/f-12.js" />
         <option value="$PROJECT_DIR$/f-13.js" />
         <option value="$PROJECT_DIR$/f-14.js" />
+        <option value="$PROJECT_DIR$/f-05(closures, reduce map filter, split and join).js" />
       </list>
     </option>
   </component>
@@ -253,12 +264,12 @@
       <workItem from="1517056774634" duration="2553000" />
       <workItem from="1517071941340" duration="597000" />
       <workItem from="1517226863332" duration="27835000" />
-      <workItem from="1517410017318" duration="1686000" />
+      <workItem from="1517410017318" duration="2094000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101272000" />
+    <option name="totallyTimeSpent" value="101680000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1374" y="-8" width="1382" height="784" extended-state="6" />
@@ -267,10 +278,10 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27380952" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30674848" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30674848" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2791411" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2791411" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3970588" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -537,14 +548,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/f-10(fizzbuzz/foobar).js" />
     <entry file="file://$PROJECT_DIR$/f-09(bootstrap).css" />
-    <entry file="file://$PROJECT_DIR$/f-05(closures, reduce map filter, split and join).js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="93" column="21" lean-forward="true" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/f-08(Arrow functions, String and Array class proto typing).js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -652,6 +655,14 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/f-05(closures, reduce map filter, split and join).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="60" lean-forward="false" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+          <folding />
         </state>
       </provider>
     </entry>
