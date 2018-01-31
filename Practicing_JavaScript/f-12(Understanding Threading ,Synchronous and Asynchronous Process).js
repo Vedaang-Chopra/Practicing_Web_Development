@@ -1,30 +1,3 @@
-/******************************************************************************************************************************/
-//Understanding Scopes and closures..................................................................
-for(var i=0;i<5;i++)
-{
-    setTimeout(function () {
-        console.log(i);                                 //Here  var has created in global scope.
-    },1000)                                             //Value of i retains.
-}
-for(let i=0;i<5;i++)
-{
-    setTimeout(function () {
-        console.log(i);                                 //Here let has created in block scope.
-    },1000)                                             //Here a new is created every time.
-}
-for(var i=0;i<5;i++)
-{
-    setTimeout(function () {                        //Here instant creation as
-        console.log(i);
-    },1000*i);
-}
-
-
-
-
-
-
-
 /********************************************************************************************************************************/
 //Understanding Threading ,Synchronous and Asynchronous Process
 console.log("yo");

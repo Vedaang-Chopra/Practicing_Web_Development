@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d8d16ae-3bdc-4a2c-87b8-1558255d74ae" name="Default" comment="Adding JavaScript Practice">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/f-12(Practicing ES6 classes).js" afterPath="$PROJECT_DIR$/f-11(Practicing ES6 classes).js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/f-12.js" afterPath="$PROJECT_DIR$/f-12.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/f-13.js" afterPath="$PROJECT_DIR$/f-13.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,14 +20,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="f-12.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="f-12.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/f-12.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="67" lean-forward="false" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="f-13.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/f-13.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="37" column="52" lean-forward="false" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -47,9 +55,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -95,6 +103,7 @@
         <option value="$PROJECT_DIR$/f-12.css" />
         <option value="$PROJECT_DIR$/f-12.html" />
         <option value="$PROJECT_DIR$/f-12.js" />
+        <option value="$PROJECT_DIR$/f-13.js" />
       </list>
     </option>
   </component>
@@ -197,26 +206,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.f-12.js">
-    <configuration name="f-07(this,new,implementing classes and objects(EcmaScript5)).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="f-07(this,new,implementing classes and objects(EcmaScript5)).js" working-dir="$PROJECT_DIR$" />
+  <component name="RunManager" selected="Node.js.f-13.js">
     <configuration name="f-11(Classes (ES6)).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="f-11(Classes (ES6)).js" working-dir="$PROJECT_DIR$" />
     <configuration name="f-11(Comapring ES6 classes with ES5).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="f-11(Comapring ES6 classes with ES5).js" working-dir="$PROJECT_DIR$" />
     <configuration name="f-12(Practicing ES6 classes).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/f-11(Practicing ES6 classes).js" working-dir="$PROJECT_DIR$" />
     <configuration name="f-12.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="f-12.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="f-13.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="f-13.js" working-dir="$PROJECT_DIR$" />
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Node.js.f-11(Classes (ES6)).js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.f-11(Comapring ES6 classes with ES5).js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.f-07(this,new,implementing classes and objects(EcmaScript5)).js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.f-12(Practicing ES6 classes).js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.f-12.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.f-12(Practicing ES6 classes).js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.f-12.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.f-13.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.f-12.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.f-12(Practicing ES6 classes).js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.f-11(Classes (ES6)).js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.f-11(Comapring ES6 classes with ES5).js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.f-07(this,new,implementing classes and objects(EcmaScript5)).js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.f-13.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.f-12.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.f-12(Practicing ES6 classes).js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.f-11(Classes (ES6)).js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.f-11(Comapring ES6 classes with ES5).js" />
       </list>
     </recent_temporary>
   </component>
@@ -251,12 +260,12 @@
       <workItem from="1517053555424" duration="1954000" />
       <workItem from="1517056774634" duration="2553000" />
       <workItem from="1517071941340" duration="597000" />
-      <workItem from="1517226863332" duration="25767000" />
+      <workItem from="1517226863332" duration="27054000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97518000" />
+    <option name="totallyTimeSpent" value="98805000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1374" y="-8" width="1382" height="784" extended-state="6" />
@@ -266,7 +275,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30674848" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30674848" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2791411" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -337,14 +346,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/f-09(fizzbuzz and javascript dom).js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/f-09(fizzbuzz and javascript dom).html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -689,11 +690,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/f-12.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="67" lean-forward="false" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/f-13.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="37" column="52" lean-forward="false" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
+          <folding />
         </state>
       </provider>
     </entry>
