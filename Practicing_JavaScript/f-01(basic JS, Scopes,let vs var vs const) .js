@@ -83,7 +83,7 @@ myfun1();
          // When a variable is not found ,the scope previous to it is checked for the same name variable but
          // here due to redeclaration of a new, same name variable leads to a reference error
 
-         p++;
+//         p++;
          let p=80;
          console.log(p);
      }
