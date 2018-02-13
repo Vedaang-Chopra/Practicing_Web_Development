@@ -8,8 +8,8 @@ function creategreeter (name) {
     }
     return greeter;
 }
-let worldgreeter=creategreeter('world');            //Here worldgreeter turns out to be a function
-worldgreeter;
+let worldgreeter=creategreeter('world');            //Here world greeter turns out to be a function
+worldgreeter();
 function fakesum(a,b) {
    function sum()
     {
