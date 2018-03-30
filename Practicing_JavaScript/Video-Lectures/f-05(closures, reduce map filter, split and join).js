@@ -64,10 +64,10 @@ console.log(evenarr);
 console.log(perfectsqr);
 
 let arr2=[1,2,3,4,5,6,7,8,9];
-let factorial=arr2.reduce(function (accum,item,index,array) {
-    console.log("For element "+index+" value is: "+item+" accum is "+accum);
-    return accum*item;
-})
+let factorial=arr2.reduce(function (accum,item,index,array) {                       //The reduce function is to perform an operation on
+    console.log("For element "+index+" value is: "+item+" accum is "+accum);        //an array. It starts with index having value 1 and accum
+    return accum*item;                                                              // has value of index=0(for first iteration).The return
+})                                                                                  // statement changes value of accum.
 
 let q=0;
 let arr3=[0,1,2,3];
@@ -93,12 +93,6 @@ let d=str1.split('')[str1.length-2];
 console.log(d);
 let date="2017-01-28"
 console.log((date.split('-')).join('/'));
-
-
-
-
-
-
 
 
 

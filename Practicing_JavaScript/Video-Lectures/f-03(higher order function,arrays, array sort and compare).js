@@ -11,7 +11,7 @@ function sayhello(hellofn) {                            //This is an example of 
 }
 sayhello(hello);
 /******************************************************************************************************************************/
-let arr1=[117,433,430,390,150,631,531]
+let arr1=[117,433,430,390,150,631,531,450,2,42]
 console.log(arr);
 function numIncCompare(a,b) {
      console.log(a);

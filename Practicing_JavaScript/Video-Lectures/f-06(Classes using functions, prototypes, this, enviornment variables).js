@@ -16,7 +16,7 @@ function createPerson(name,age)
 let p1=createPerson("Joe",32)           //Here a fake class or an(object) leads to creation of  another object
 console.log(p1.isAdult());
 //Here p1 is an object of javascript.Thus new data can be added or deleted without change in class
-delete p1.name;
+delete p1.name;             //This occurs as p1 has no relationship after once it is been created.
 console.log(p1);
 //Using Objects......................................................
 //Prototype inheritance.......................

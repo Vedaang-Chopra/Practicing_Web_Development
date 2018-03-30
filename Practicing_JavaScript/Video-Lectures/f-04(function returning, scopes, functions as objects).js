@@ -10,6 +10,7 @@ function creategreeter (name) {
 }
 let worldgreeter=creategreeter('world');            //Here world greeter turns out to be a function
 worldgreeter();
+creategreeter("Vedaang")();         //Here we are calling returned function greeter
 function fakesum(a,b) {
    function sum()
     {
@@ -26,8 +27,8 @@ obj.x=40;
 console.log(obj);
 function alpha()
 {
-
-}
+     //a=20;                                //Earlier before strict mode was imposed if a=20 was written then such variables were declared
+}                                          //in gloabal scope as search for variable in previous scope leads to its declaration in gloabal function scope.
 alpha.y=50;
 console.log(alpha);
 console.log(typeof (alpha));
