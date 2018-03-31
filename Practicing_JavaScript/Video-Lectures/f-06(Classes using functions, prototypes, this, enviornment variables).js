@@ -59,7 +59,7 @@ console.log(this);
 function alpha()
  {
      //console.log(this);
-     this.b=11;
+     this.b=11;                     //Here b is created in global scope as this points to global.
  }
 
 //console.log(this);
