@@ -59,10 +59,10 @@ let d=new myNumber1("10");
 console.log(typeof(a));
 console.log(a);
 console.log(typeof(b));                  //Here as return statement gives a primitive value thus we have an object because of new statement.
-console.log(b);                          //Thus new supercedes return statement.
+console.log(b);                          //Thus new supersedes return statement.
 console.log(typeof(c));
 console.log(c);
 console.log(typeof(d));              //Here as return statement gives a non-primitive value thus we have the return statement data
-console.log(d);                     //rather than object because new statement can't supercede return.
+console.log(d);                     //rather than object because new statement can't supersede return.
 
 
