@@ -1,0 +1,1 @@
+This writing data into file sequentialy.
