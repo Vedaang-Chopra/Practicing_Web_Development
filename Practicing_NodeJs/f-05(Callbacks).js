@@ -23,21 +23,25 @@ one(1,function (b,twocb){
 
 });
 //Callback (example-2)...........................................................
+//This is an example of a series of callback function where asynchronous process is done sequentualy
 function downloadfile(url,downloaded){
     setTimeout(()=>{
         downloaded(null,"DATA DOWNLOADED");
+        console.log("download function")
 },2000);
 }
 function encrypt(data,encrypted)
 {
     setTimeout(()=>{
         encrypted(null,`{{{{{{{${data}}}}}}}}}`);
+        console.log("encryption function")
     },1000);
 }
 function savedfile(data,saved)
 {
     setTimeout(()=>{
         saved(null,true)
+        console.log("Saving Function")
     },2000);
 }
 downloadfile("https://cb.lk/file.jpg",(err,data)=>{
