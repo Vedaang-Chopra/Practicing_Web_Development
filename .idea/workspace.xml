@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1f7c92c-f23b-4c61-9f50-4d9946dbfac6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/Vedaang_Chopra.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/Vedaang_Chopra.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practicing_NodeJs/f-05(Callbacks).js" afterPath="$PROJECT_DIR$/Practicing_NodeJs/f-05(Callbacks).js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practicing_NodeJs/f-07.js" afterPath="$PROJECT_DIR$/Practicing_NodeJs/f-07.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,24 +16,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="f-05(Callbacks).js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practicing_NodeJs/f-05(Callbacks).js">
+      <file leaf-file-name="f-07.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Practicing_NodeJs/f-07.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="41" column="20" lean-forward="true" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+            <state relative-caret-position="259">
+              <caret line="53" column="24" lean-forward="true" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="f-06(Promises,Promisify).js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Practicing_NodeJs/f-06(Promises,Promisify).js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="71" column="28" lean-forward="false" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -78,9 +64,9 @@
         <option value="$PROJECT_DIR$/Practicing_NodeJs/f-05.js" />
         <option value="$PROJECT_DIR$/Practicing_NodeJs/f-04(NextTick function).js" />
         <option value="$PROJECT_DIR$/Practicing_NodeJs/f-03.js" />
-        <option value="$PROJECT_DIR$/Practicing_NodeJs/f-07.js" />
         <option value="$PROJECT_DIR$/Practicing_NodeJs/f-05(Callbacks).js" />
         <option value="$PROJECT_DIR$/Practicing_NodeJs/f-06.js" />
+        <option value="$PROJECT_DIR$/Practicing_NodeJs/f-07.js" />
       </list>
     </option>
   </component>
@@ -159,7 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.f-05(Callbacks).js">
+  <component name="RunManager" selected="Node.js.f-07.js">
     <configuration name="f-03.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/Practicing_NodeJs/f-03(File System and Events).js" working-dir="$PROJECT_DIR$/Practicing_NodeJs" />
     <configuration name="f-04(NextTick function).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="f-04(NextTick function).js" working-dir="$PROJECT_DIR$/Practicing_NodeJs" />
     <configuration name="f-05(Callbacks).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="f-05(Callbacks).js" working-dir="$PROJECT_DIR$/Practicing_NodeJs" />
@@ -174,9 +160,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.f-05(Callbacks).js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.f-06.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.f-07.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.f-07.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.f-05(Callbacks).js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.f-06.js" />
         <item index="3" class="java.lang.String" itemvalue="Node.js.f-03.js" />
         <item index="4" class="java.lang.String" itemvalue="Node.js.f-04(NextTick function).js" />
       </list>
@@ -220,7 +206,7 @@
       <workItem from="1526212537838" duration="4754000" />
       <workItem from="1526238111539" duration="14699000" />
       <workItem from="1526325292170" duration="8523000" />
-      <workItem from="1526412610632" duration="2290000" />
+      <workItem from="1526412610632" duration="6994000" />
     </task>
     <task id="LOCAL-00001" summary="Changes are added.">
       <created>1518518559607</created>
@@ -247,7 +233,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88850000" />
+    <option name="totallyTimeSpent" value="93554000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -257,7 +243,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32334384" sideWeight="0.50292826" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32334384" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32334384" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32176656" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -624,13 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
           <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practicing_NodeJs/f-07.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -645,11 +624,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Practicing_NodeJs/f-06(Promises,Promisify).js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="71" column="28" lean-forward="false" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
+        <state relative-caret-position="396">
+          <caret line="80" column="6" lean-forward="true" selection-start-line="80" selection-start-column="6" selection-end-line="80" selection-end-column="6" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practicing_NodeJs/f-07.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="53" column="24" lean-forward="true" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
