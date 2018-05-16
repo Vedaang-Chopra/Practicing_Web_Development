@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f1f7c92c-f23b-4c61-9f50-4d9946dbfac6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practicing_NodeJs/f-09(Import and Export).js" afterPath="$PROJECT_DIR$/Practicing_NodeJs/f-09(Import and Export).js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,21 +17,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="f-07(Promise and functions).js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practicing_NodeJs/f-07(Promise and functions).js">
+      <file leaf-file-name="f-10(New Import Export Syntax).html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Practicing_NodeJs/f-10(New Import Export Syntax).html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="35" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="1" />
+            <state relative-caret-position="170">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="f-08.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Practicing_NodeJs/f-08.js">
+      <file leaf-file-name="f-10(New Inport Export Syntax).js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practicing_NodeJs/f-10(New Inport Export Syntax).js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="38" column="42" lean-forward="false" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+            <state relative-caret-position="34">
+              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="f-10(Module for Import Export).js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practicing_NodeJs/f-10(Module for Import Export).js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -79,6 +90,13 @@
         <option value="$PROJECT_DIR$/Practicing_NodeJs/f-07.js" />
         <option value="$PROJECT_DIR$/Practicing_NodeJs/Files/f-08(Async and await).js" />
         <option value="$PROJECT_DIR$/Practicing_NodeJs/f-08.js" />
+        <option value="$PROJECT_DIR$/Practicing_NodeJs/f-09(2).js" />
+        <option value="$PROJECT_DIR$/Practicing_NodeJs/f-09(Import and Export).js" />
+        <option value="$PROJECT_DIR$/Practicing_NodeJs/f-09(module).js" />
+        <option value="$PROJECT_DIR$/Practicing_NodeJs/f-09(Module for new syntax Import Export).js" />
+        <option value="$PROJECT_DIR$/Practicing_NodeJs/f-09(New Inport Export Syntax).js" />
+        <option value="$PROJECT_DIR$/Practicing_NodeJs/f-09(New Import Export Syntax).html" />
+        <option value="$PROJECT_DIR$/Practicing_NodeJs/f-10(New Import Export Syntax).html" />
       </list>
     </option>
   </component>
@@ -115,17 +133,6 @@
             <path>
               <item name="Web_Development_Practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="Web_Development_Practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Web_Development_Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Web_Development_Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="Practicing_JavaScript" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Web_Development_Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Web_Development_Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="Practicing_JavaScript" type="462c0819:PsiDirectoryNode" />
-              <item name="Video-Lectures" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Web_Development_Practice" type="b2602c69:ProjectViewProjectNode" />
@@ -168,26 +175,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.f-08.js">
-    <configuration name="f-03.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/Practicing_NodeJs/f-03(File System and Events).js" working-dir="$PROJECT_DIR$/Practicing_NodeJs" />
-    <configuration name="f-05(Callbacks).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="f-05(Callbacks).js" working-dir="$PROJECT_DIR$/Practicing_NodeJs" />
-    <configuration name="f-06.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/Practicing_NodeJs/f-06(Promises,Promisify).js" working-dir="$PROJECT_DIR$/Practicing_NodeJs" />
+  <component name="RunManager" selected="Node.js.f-09(New Inport Export Syntax).js">
     <configuration name="f-07.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/Practicing_NodeJs/f-07(Promise and functions).js" working-dir="$PROJECT_DIR$/Practicing_NodeJs" />
-    <configuration name="f-08.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="f-08.js" working-dir="$PROJECT_DIR$/Practicing_NodeJs" />
+    <configuration name="f-08.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/Practicing_NodeJs/f-08(Async and await).js" working-dir="$PROJECT_DIR$/Practicing_NodeJs" />
+    <configuration name="f-09(Import and Export).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="f-09(Import and Export).js" working-dir="$PROJECT_DIR$/Practicing_NodeJs" />
+    <configuration name="f-09(New Inport Export Syntax).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/Practicing_NodeJs/f-10(New Inport Export Syntax).js" working-dir="$PROJECT_DIR$/Practicing_NodeJs" />
+    <configuration name="f-09(module).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/Practicing_NodeJs/f-09(Module for Import Export).js" working-dir="$PROJECT_DIR$/Practicing_NodeJs" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.f-03.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.f-05(Callbacks).js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.f-06.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.f-07.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.f-08.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.f-07.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.f-08.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.f-09(Import and Export).js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.f-09(module).js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.f-09(New Inport Export Syntax).js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.f-08.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.f-07.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.f-05(Callbacks).js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.f-06.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.f-03.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.f-09(New Inport Export Syntax).js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.f-09(Import and Export).js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.f-09(module).js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.f-08.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.f-07.js" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +237,7 @@
       <workItem from="1526238111539" duration="14699000" />
       <workItem from="1526325292170" duration="8523000" />
       <workItem from="1526412610632" duration="8501000" />
-      <workItem from="1526497980014" duration="1914000" />
+      <workItem from="1526497980014" duration="7073000" />
     </task>
     <task id="LOCAL-00001" summary="Changes are added.">
       <created>1518518559607</created>
@@ -257,7 +264,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96975000" />
+    <option name="totallyTimeSpent" value="102134000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1382" height="744" extended-state="6" />
@@ -305,47 +312,24 @@
           <line>5</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Practicing_NodeJs/f-09(Import and Export).js</url>
+          <line>1</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Practicing_NodeJs/f-09(Import and Export).js</url>
+          <line>3</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="6" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Practicing_NodeJs/f-03(File System and Events).js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practicing_NodeJs/f-01(nodejs vs browser,command line arguments,new and return).js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practicing_NodeJs/f-01(nodejs vs browser,command line arguments,new and return).js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practicing_JavaScript/Video-Lectures/f-05(closures, reduce map filter, split and join).js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practicing_JavaScript/Video-Lectures/f-04(function returning, scopes, functions as objects).js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Practicing_NodeJs/f-01(nodejs vs browser,command line arguments,new and return).js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -587,6 +571,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
           <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -603,20 +588,12 @@
         <state relative-caret-position="396">
           <caret line="80" column="6" lean-forward="true" selection-start-line="80" selection-start-column="6" selection-end-line="80" selection-end-column="6" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Practicing_NodeJs/Files/f-08(Async and await).js" />
-    <entry file="file://$PROJECT_DIR$/Practicing_NodeJs/f-07(Promise and functions).js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="35" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Practicing_JavaScript/Video-Lectures/f-06(Classes using functions, prototypes, this, enviornment variables).js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
@@ -633,10 +610,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practicing_NodeJs/f-08.js">
+    <entry file="file://$PROJECT_DIR$/Practicing_NodeJs/f-08(Async and await).js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="38" column="42" lean-forward="false" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+        <state relative-caret-position="103">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practicing_NodeJs/f-07(Promise and functions).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="35" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practicing_NodeJs/f-09(Import and Export).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="63" lean-forward="false" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practicing_NodeJs/f-09(Module for Import Export).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practicing_NodeJs/f-10(Module for Import Export).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practicing_NodeJs/f-10(New Inport Export Syntax).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practicing_NodeJs/f-10(New Import Export Syntax).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
